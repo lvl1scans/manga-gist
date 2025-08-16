@@ -9,5 +9,20 @@
     "Romance"
   ],
   "demographic": "Shounen",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "gvyuygd kqeuf",
+      "volume": "1",
+      "last_updated": "1755337216",
+      "groups": {
+        "Scanlation Group": [
+          "https://i.redd.it/lz9vhrfrqcjf1.png",
+          "https://i.redd.it/xvgkh7qrqcjf1.png",
+          "https://i.redd.it/898t0qyrqcjf1.png",
+          "https://i.redd.it/471e9k7sqcjf1.png",
+          "https://i.redd.it/hw4de0gsqcjf1.png"
+        ]
+      }
+    }
+  }
 }
