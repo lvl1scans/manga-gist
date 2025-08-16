@@ -3,10 +3,13 @@
   "description": "hagefiu kaeugfui\nakjefhi",
   "artist": "maef",
   "author": "jhge",
-  "cover": "https://i.redd.it/slf4ekddpcjf1.png",
-  "genres": [],
+  "cover": null,
+  "genres": [
+    "Action"
+  ],
   "themes": [
-    "Romance"
+    "Animals",
+    "Reincarnation"
   ],
   "demographic": "Shounen",
   "chapters": {
